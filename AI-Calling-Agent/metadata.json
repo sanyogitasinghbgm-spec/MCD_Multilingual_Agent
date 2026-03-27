@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Delhi AI Complaint System",
+  "description": "A multilingual AI-powered complaint registration system for Delhi citizens and administrators with voice support and real-time tracking.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
